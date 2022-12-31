@@ -1,2 +1,2 @@
-## fastApi-calculator
-# Simplest Calculator using FastAPI
+# fastApi-calculator
+##Simplest Calculator using FastAPI
